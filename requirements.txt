@@ -6,3 +6,4 @@ python-dotenv
 duckduckgo-search
 fpdf2
 python-docx
+ddgs
